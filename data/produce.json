@@ -760,6 +760,7 @@
   },
   {
     "name": "Ginger Root",
+    "priority-keywords": ["ginger"],
     "value": 4612,
     "uiColor": "brown"
   },
