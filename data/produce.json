@@ -35,12 +35,6 @@
     "uiColor": "yellow"
   },
   {
-    "name": "Peppers, Green Bell",
-    "keywords": ["bell peppers"],
-    "priority-keywords": ["green bell peppers"],
-    "value": 4065
-  },
-  {
     "name": "Peppers, Red Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["red bell peppers"],
@@ -57,6 +51,12 @@
     "keywords": ["bell peppers"],
     "priority-keywords": ["yellow bell peppers"],
     "value": 4689
+  },
+  {
+    "name": "Peppers, Green Bell",
+    "keywords": ["bell peppers"],
+    "priority-keywords": ["green bell peppers"],
+    "value": 4065
   },
   {
     "name": "Pineapple",
