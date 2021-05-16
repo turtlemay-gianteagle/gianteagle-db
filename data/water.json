@@ -1,12 +1,14 @@
 [
   {
     "name": "Giant Eagle Purified Water - 24 Pack Bottles",
+    "priority-keywords": ["water bottles", "water pack"],
     "keywords": ["water 24", "water bottles pack"],
     "value": "030034072940",
     "uiColor": "blue"
   },
   {
     "name": "Giant Eagle Purified Water - 32 Pack Bottles",
+    "priority-keywords": ["water bottles", "water pack"],
     "keywords": ["water 32", "water bottles pack"],
     "value": "030034934583",
     "uiColor": "blue"
