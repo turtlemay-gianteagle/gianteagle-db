@@ -6,6 +6,12 @@
     "uiColor": "green"
   },
   {
+    "name": "Avocados",
+    "priority-keywords": ["avocados"],
+    "value": 4223,
+    "uiColor": "green"
+  },
+  {
     "name": "Avocados - Organic",
     "priority-keywords": ["organic avocados"],
     "value": 94046,
