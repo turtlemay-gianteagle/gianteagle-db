@@ -464,6 +464,12 @@
     "uiColor": "green"
   },
   {
+    "name": "Apples, Honeycrisp",
+    "keywords": ["honeycrisp apples"],
+    "value": 3073,
+    "uiColor": "red"
+  },
+  {
     "name": "Apples, Ambrosia",
     "keywords": ["ambrosia apples"],
     "value": 3438,
