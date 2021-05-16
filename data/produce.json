@@ -620,12 +620,13 @@
   {
     "name": "Cilantro / Coriander",
     "priority-keywords": ["cilantro"],
+    "keywords": ["herbs"],
     "value": 4889,
     "uiColor": "green"
   },
   {
     "name": "Parsley (Curley)",
-    "keywords": ["curley, parsley"],
+    "keywords": ["herbs", "curley, parsley"],
     "priority-keywords": ["parsley"],
     "value": 4899,
     "uiColor": "green"
