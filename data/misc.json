@@ -2,6 +2,7 @@
   {
     "name": "USPS Postage Stamps",
     "priority-keywords": ["stamps"],
+    "tags": ["reg"],
     "value": "9396",
     "uiColor": "white"
   },
