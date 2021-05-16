@@ -782,6 +782,7 @@
   },
   {
     "name": "Leeks",
+    "priority-keywords": ["leeks"],
     "value": 4629,
     "uiColor": "green"
   },
