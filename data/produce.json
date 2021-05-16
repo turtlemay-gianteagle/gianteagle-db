@@ -159,7 +159,8 @@
   {
     "name": "Onions, Vidalia",
     "keywords": ["vidalia onion", "sweet onion"],
-    "value": 4159
+    "value": 4159,
+    "uiColor": "yellow"
   },
   {
     "name": "Onions, Shallots",
