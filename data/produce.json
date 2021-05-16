@@ -387,12 +387,6 @@
     "uiColor": "brown"
   },
   {
-    "name": "Mangoes",
-    "priority-keywords": ["mangoes"],
-    "value": 4959,
-    "uiColor": "orange"
-  },
-  {
     "name": "Kiwano Melons / Horned",
     "value": 4302,
     "keywords": ["horned melon"],
