@@ -116,6 +116,7 @@
   },
   {
     "name": "Melons, Watermelon Personal",
+    "priority-keywords": ["personal"],
     "keywords": ["personal watermelon"],
     "value": 707375034219,
     "uiColor": "red"
