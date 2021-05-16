@@ -235,6 +235,7 @@
   },
   {
     "name": "Oranges, Navel, Medium",
+    "priority-keywords": ["navel", "oranges"],
     "keywords": ["navel oranges"],
     "value": 3107
   },
