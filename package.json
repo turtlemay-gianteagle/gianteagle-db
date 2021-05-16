@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "gianteagle-db",
+  "version": "0.0.1",
+  "scripts": {
+    "validate": "foy validate",
+    "build": "foy build",
+    "postinstall": "foy build"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "foy": "^0.2.3",
+    "gianteagle-db-schema": "turtlemay-gianteagle/gianteagle-db-schema",
+    "jsonschema": "^1.4.0"
+  }
+}

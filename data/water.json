@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Giant Eagle Purified Water - 24 Pack Bottles",
+    "keywords": ["water 24", "water bottles pack"],
+    "value": "030034072940",
+    "uiColor": "blue"
+  },
+  {
+    "name": "Giant Eagle Purified Water - 32 Pack Bottles",
+    "keywords": ["water 32", "water bottles pack"],
+    "value": "030034934583",
+    "uiColor": "blue"
+  },
+  {
+    "name": "Deer Park 100% Natural Spring Water - 24 Pack Bottles",
+    "priority-keywords": ["deer park"],
+    "keywords": ["water bottles pack"],
+    "value": "082657504063",
+    "uiColor": "blue"
+  },
+  {
+    "name": "Aquafina Purified Drinking Water, 100% Natural Spring Water - 24 Pack Bottles",
+    "priority-keywords": ["aquafina"],
+    "keywords": ["water bottles pack"],
+    "value": "082657504063",
+    "uiColor": "blue"
+  },
+  {
+    "name": "Home City Ice Bag, 7lb",
+    "value": "3858",
+    "priority-keywords": ["ice", "ice 7"],
+    "uiColor": "blue"
+  },
+  {
+    "name": "Home City Ice Bag, 22lb",
+    "value": "073309200228",
+    "priority-keywords": ["ice", "ice 22"],
+    "uiColor": "blue"
+  }
+]

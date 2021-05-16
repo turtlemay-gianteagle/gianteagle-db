@@ -1,0 +1,865 @@
+[
+  {
+    "name": "Avocados",
+    "priority-keywords": ["avocados"],
+    "value": 4046,
+    "uiColor": "green"
+  },
+  {
+    "name": "Avocados - Organic",
+    "priority-keywords": ["organic avocados"],
+    "value": 94046,
+    "uiColor": "green"
+  },
+  {
+    "name": "Bananas",
+    "priority-keywords": ["bananas"],
+    "value": 4011,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Bananas (Organic)",
+    "priority-keywords": ["organic bananas"],
+    "value": 94011,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Plantains",
+    "value": 4235,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Peppers, Green Bell",
+    "keywords": ["bell peppers"],
+    "priority-keywords": ["green bell peppers"],
+    "value": 4065
+  },
+  {
+    "name": "Peppers, Red Bell",
+    "keywords": ["bell peppers"],
+    "priority-keywords": ["red bell peppers"],
+    "value": 4688
+  },
+  {
+    "name": "Peppers, Orange Bell",
+    "keywords": ["bell peppers"],
+    "priority-keywords": ["orange bell peppers"],
+    "value": 3121
+  },
+  {
+    "name": "Peppers, Yellow Bell",
+    "keywords": ["bell peppers"],
+    "priority-keywords": ["yellow bell peppers"],
+    "value": 4689
+  },
+  {
+    "name": "Pineapple",
+    "priority-keywords": ["pineapple"],
+    "value": 4430,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Pineapple",
+    "priority-keywords": ["pineapple"],
+    "value": "5397005027756",
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Lemons",
+    "priority-keywords": ["lemon"],
+    "keywords": ["lemonlime"],
+    "value": 4053,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Limes",
+    "priority-keywords": ["lime"],
+    "keywords": ["lemonlime"],
+    "value": 4048,
+    "uiColor": "green"
+  },
+  {
+    "name": "Mangoes",
+    "priority-keywords": ["mangoes"],
+    "value": 4959,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Mangoes",
+    "keywords": ["mangoes"],
+    "value": 3488,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Melons, Honeydew",
+    "keywords": ["melon"],
+    "value": 4034,
+    "uiColor": "green"
+  },
+  {
+    "name": "Melons, Cantaloupe",
+    "priority-keywords": ["melon"],
+    "value": 4334,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Melons, Cantaloupe",
+    "priority-keywords": ["melon"],
+    "value": 4050,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Melons, Watermelon Personal",
+    "keywords": ["personal watermelon"],
+    "value": 707375034219,
+    "uiColor": "red"
+  },
+  {
+    "name": "Melons, Watermelon Seedless",
+    "keywords": ["seedless watermelon"],
+    "priority-keywords": ["watermelon"],
+    "value": 4032,
+    "uiColor": "red"
+  },
+  {
+    "name": "Melons, Watermelon Seeded",
+    "keywords": ["seeded watermelon"],
+    "value": 4031,
+    "uiColor": "red"
+  },
+  {
+    "name": "Watermelon Quarter",
+    "keywords": ["sliced watermelon quarter"],
+    "value": "244032000007",
+    "uiColor": "red"
+  },
+  {
+    "name": "Onions, Green Iceless",
+    "keywords": ["onion", "green onion"],
+    "value": 4068,
+    "uiColor": "green"
+  },
+  {
+    "name": "Onions, Red Not Peeled",
+    "keywords": ["onion", "red onion"],
+    "value": 4082
+  },
+  {
+    "name": "Onions, Red Peeled (Large)",
+    "keywords": ["peeled red onions"],
+    "value": 4669
+  },
+  {
+    "name": "Onions, Vidalia",
+    "keywords": ["vidalia onion", "sweet onion"],
+    "value": 4159
+  },
+  {
+    "name": "Onions, Shallots",
+    "priority-keywords": ["shallots"],
+    "value": 4662,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Onions, White (Not Peeled)",
+    "keywords": ["onion", "white onions"],
+    "value": 4663
+  },
+  {
+    "name": "Onions, White Peeled",
+    "keywords": ["peeled white onions"],
+    "value": 4670
+  },
+  {
+    "name": "Onions, Spanish",
+    "keywords": ["spanish onion"],
+    "value": 4093
+  },
+  {
+    "name": "Garlic, Bulk",
+    "priority-keywords": ["garlic"],
+    "value": 4608,
+    "uiColor": "white"
+  },
+  {
+    "name": "Potatoes, Russet/Idaho",
+    "keywords": ["Idaho potatoes", "baker potatoes", "russet potatoes"],
+    "value": 4072,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Potato, Russet/Idaho (Packaged)",
+    "keywords": [
+      "Idaho potatoes",
+      "baker potatoes",
+      "russet potatoes",
+      "potato packaged",
+      "potato wrapped"
+    ],
+    "value": "030034302221",
+    "uiColor": "brown"
+  },
+  {
+    "name": "Potatoes, Red (Small)",
+    "value": 4723,
+    "keywords": ["red potatoes"]
+  },
+  {
+    "name": "Sweet Potatoes, Red",
+    "keywords": ["sweet potato", "yam"],
+    "value": 4074
+  },
+  {
+    "name": "Sweet Potatoes, Red",
+    "keywords": ["sweet potato", "yam"],
+    "value": 4816
+  },
+  {
+    "name": "Sweet Potatoes, Red (Organic)",
+    "keywords": ["organic sweet potato", "organic yam"],
+    "value": 94816
+  },
+  {
+    "name": "Potato, Ready to Grill",
+    "value": 4732,
+    "keywords": ["grill"],
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Oranges, Navel, Medium",
+    "keywords": ["navel oranges"],
+    "value": 3107
+  },
+  {
+    "name": "Grapefruit, Pink (Star Ruby)",
+    "priority-keywords": ["grapefruit"],
+    "value": 4288
+  },
+  {
+    "name": "Orange, Cara Cara (Pink)",
+    "priority-keywords": ["cara"],
+    "value": "3110",
+    "uiColor": "orange"
+  },
+  {
+    "name": "Squash, Spaghetti",
+    "keywords": ["spaghetti squash"],
+    "value": 4776,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Squash, Butternut",
+    "keywords": ["butternut squash"],
+    "value": 4759,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Squash, Acorn",
+    "keywords": ["acorn squash"],
+    "value": 4750,
+    "uiColor": "green"
+  },
+  {
+    "name": "Brussel Sprout",
+    "value": 4550,
+    "uiColor": "green"
+  },
+  {
+    "name": "Squash, Zucchini",
+    "keywords": ["zucchini squash", "common squash"],
+    "value": 4067,
+    "uiColor": "green"
+  },
+  {
+    "name": "Squash, Yellow",
+    "keywords": ["squash", "yellow squash", "common squash"],
+    "value": 4784,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Spinach, Bunch",
+    "priority-keywords": ["spinach"],
+    "value": 4090,
+    "uiColor": "green"
+  },
+  {
+    "name": "Rutabaga",
+    "keywords": ["root"],
+    "value": 4747,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Lettuce, Head (Iceberg)",
+    "priority-keywords": ["iceberg lettuce"],
+    "keywords": ["head of lettuce"],
+    "value": 4061,
+    "uiColor": "green"
+  },
+  {
+    "name": "Lettuce, Escarole",
+    "value": 4605,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cauliflower Head (White)",
+    "priority-keywords": ["cauliflower"],
+    "value": 4079,
+    "uiColor": "white"
+  },
+  {
+    "name": "Cauliflower (Orange)",
+    "keywords": ["cauliflower"],
+    "value": 3436,
+    "uiColor": "white"
+  },
+  {
+    "name": "Cucumber",
+    "priority-keywords": ["cucumber"],
+    "value": 4062,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cucumber, English",
+    "priority-keywords": ["english cucumber"],
+    "value": 4593,
+    "uiColor": "green"
+  },
+  {
+    "name": "Tomatoes, Green",
+    "keywords": ["green tomatoes"],
+    "value": 4506,
+    "uiColor": "green"
+  },
+  {
+    "name": "Tomatoes, Roma",
+    "priority-keywords": ["roma"],
+    "keywords": ["roma tomatoes", "plum tomatoes"],
+    "value": 4087,
+    "uiColor": "red"
+  },
+  {
+    "name": "Tomatoes, Heirloom",
+    "priority-keywords": ["heirloom"],
+    "keywords": ["heirloom tomatoes"],
+    "value": 4955,
+    "uiColor": "red"
+  },
+  {
+    "name": "Tomatoes, Vine Cluster",
+    "keywords": ["on the vine", "otv"],
+    "value": 4664,
+    "uiColor": "red"
+  },
+  {
+    "name": "Tomatoes, Greenhouse/Hydroponic/Regular",
+    "keywords": ["large tomato", "greenhouse tomato", "hydroponic tomato"],
+    "value": 4799,
+    "uiColor": "red"
+  },
+  {
+    "name": "Frying Green Tomatoes",
+    "keywords": ["frying tomatoes"],
+    "value": 4509,
+    "uiColor": "red"
+  },
+  {
+    "name": "Tomatoes, Beefsteak",
+    "value": 3061,
+    "uiColor": "red"
+  },
+  {
+    "name": "Kiwi",
+    "priority-keywords": ["kiwi"],
+    "value": 4030,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Jicama",
+    "keywords": ["root"],
+    "value": 4626,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Mangoes",
+    "priority-keywords": ["mangoes"],
+    "value": 4959,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Kiwano Melons / Horned",
+    "value": 4302,
+    "keywords": ["horned melon"],
+    "priority-keywords": ["kiwano", "horned"],
+    "uiColor": "orange"
+  },
+  {
+    "name": "Pears, Red - Anjou",
+    "value": 4417,
+    "priority-keywords": ["anjou"],
+    "keywords": ["red pears", "anjou pears"],
+    "uiColor": "red"
+  },
+  {
+    "name": "Pears, Red - Starkrimson",
+    "value": 3118,
+    "keywords": ["red pears", "starkrimson pears"],
+    "uiColor": "red"
+  },
+  {
+    "name": "Peaches",
+    "keywords": ["peaches"],
+    "value": 4044,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Peaches / White",
+    "keywords": ["white peach"],
+    "value": 4400,
+    "uiColor": "red"
+  },
+  {
+    "name": "Nectarine",
+    "value": 4035,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Carrots, Bulk",
+    "keywords": ["loose carrots"],
+    "priority-keywords": ["carrots"],
+    "value": 4562,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Carrots, Bunch",
+    "keywords": ["carrot bunch"],
+    "value": 4094,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Carrots, Bunch (Organic)",
+    "keywords": ["organic carrot bunch"],
+    "value": 94094,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Parsnips",
+    "value": 4672,
+    "uiColor": "white"
+  },
+  {
+    "name": "Snow Peas",
+    "value": 4092,
+    "uiColor": "green"
+  },
+  {
+    "name": "Sugar Snap Peas",
+    "value": 4675,
+    "uiColor": "green"
+  },
+  {
+    "name": "Apples, Ambrosia",
+    "keywords": ["ambrosia apples"],
+    "value": 3438,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Royal Gala",
+    "keywords": ["gala apples"],
+    "value": 4174,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Granny Smith (Large)",
+    "keywords": ["granny", "granny smith"],
+    "value": 4017,
+    "uiColor": "green"
+  },
+  {
+    "name": "Apples, Fuji",
+    "keywords": ["fuji apples"],
+    "value": 4131,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Red Delicious",
+    "keywords": ["red delicious apples"],
+    "value": 4016,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Nicoter (Kanzi)",
+    "keywords": ["kanzi apples", "nicoter apples"],
+    "value": 3605,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Cosmic Crisp",
+    "keywords": ["cosmic crisp apples"],
+    "value": 3507,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Pink Lady / Cripps",
+    "keywords": ["pink lady apples", "cripps pink apples"],
+    "value": 4130,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, McIntosh",
+    "keywords": ["mcintosh apples"],
+    "value": 4019,
+    "uiColor": "red"
+  },
+  {
+    "name": "Apples, Golden Delicious",
+    "keywords": ["golden delicious apples"],
+    "value": 4020,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Apples, Fuji Brak (Kiku)",
+    "keywords": ["kiku apples"],
+    "value": 4020,
+    "uiColor": "apple"
+  },
+  {
+    "name": "Pears, Bartlett",
+    "priority-keywords": ["pears"],
+    "value": 4409,
+    "uiColor": "green"
+  },
+  {
+    "name": "Pears, Asian",
+    "priority-keywords": ["asian pears"],
+    "value": 4408,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Pears, Bosc",
+    "keywords": ["bosc pears"],
+    "value": 4413,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Pears, D'Anjou",
+    "keywords": ["danjou pears"],
+    "value": 4416,
+    "uiColor": "green"
+  },
+  {
+    "name": "Grapes, Novelty Green Seedless",
+    "keywords": ["seedless green grapes"],
+    "value": 3501,
+    "uiColor": "green"
+  },
+  {
+    "name": "Grapes, Red Seedless / Crimson / Majestic",
+    "keywords": ["seedless red grapes"],
+    "value": 4499,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Grapes, Red Seedless - Sugrathirtyfour",
+    "keywords": ["seedless red grapes"],
+    "value": 3451,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Lettuce, Radicchio (Red)",
+    "keywords": ["red lettuce"],
+    "value": 4738,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Fennel, Anise",
+    "priority-keywords": ["anise fennel"],
+    "value": 4515,
+    "uiColor": "green"
+  },
+  {
+    "name": "Rhubarb",
+    "value": 4745,
+    "uiColor": "red"
+  },
+  {
+    "name": "Turnips, Bulk",
+    "priority-keywords": ["turnips"],
+    "value": 4811,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Broccoli (With Stem)",
+    "priority-keywords": ["broccoli", "broccoli stems"],
+    "value": 4060,
+    "uiColor": "green"
+  },
+  {
+    "name": "Broccoli (Organic)",
+    "priority-keywords": ["organic broccoli", "organic broccoli stems"],
+    "value": 94060,
+    "uiColor": "green"
+  },
+  {
+    "name": "Broccoli Crowns",
+    "priority-keywords": ["broccoli crowns"],
+    "value": 3082,
+    "uiColor": "green"
+  },
+  {
+    "name": "Broccoli Florets, Bulk",
+    "keywords": ["bulk broccoli florets"],
+    "value": 4548,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cilantro",
+    "priority-keywords": ["cilantro"],
+    "value": 4889,
+    "uiColor": "green"
+  },
+  {
+    "name": "Parsley (Curley)",
+    "keywords": ["curley, parsley"],
+    "priority-keywords": ["parsley"],
+    "value": 4899,
+    "uiColor": "green"
+  },
+  {
+    "name": "Parsley, Root",
+    "value": 4671,
+    "uiColor": "green"
+  },
+  {
+    "name": "Lettuce, Boston",
+    "keywords": ["boston lettuce"],
+    "value": 4632,
+    "uiColor": "green"
+  },
+  {
+    "name": "Lettuce, Red Boston",
+    "keywords": ["red boston lettuce"],
+    "value": 3098,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Lettuce, Green Romaine",
+    "keywords": ["green romaine lettuce"],
+    "priority-keywords": ["romaine"],
+    "value": 4640
+  },
+  {
+    "name": "Lettuce, Red Romaine",
+    "keywords": ["red romaine lettuce"],
+    "value": 3097,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Lettuce, Green Leaf",
+    "keywords": ["green leaf lettuce"],
+    "value": "4076",
+    "uiColor": "green"
+  },
+  {
+    "name": "Greens, Collard",
+    "keywords": ["collard greens"],
+    "value": 4614
+  },
+  {
+    "name": "Kale Bunch",
+    "priority-keywords": ["kale"],
+    "value": 4627,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cabbage, Green",
+    "priority-keywords": ["cabbage"],
+    "keywords": ["green cabbage"],
+    "value": 4069
+  },
+  {
+    "name": "Cabbage, Nappa",
+    "value": 4552,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cabbage, Savoy",
+    "value": 4555,
+    "uiColor": "green"
+  },
+  {
+    "name": "Cabbage, Red",
+    "keywords": ["red cabbage"],
+    "value": 4554,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Kale, Tuscan",
+    "keywords": ["tuscan kale", "tuscan cabbage"],
+    "value": 3166,
+    "uiColor": "red"
+  },
+  {
+    "name": "Kohlrabi (German Turnip)",
+    "keywords": ["kohlrabi", "cabbage turnip", "german turnip"],
+    "value": "4628",
+    "uiColor": "green"
+  },
+  {
+    "name": "Endive, Belgian / Chicory",
+    "value": 4604,
+    "uiColor": "green"
+  },
+  {
+    "name": "Celery",
+    "keywords": ["celery"],
+    "value": 4070,
+    "uiColor": "green"
+  },
+  {
+    "name": "Radishes, Red Bunch",
+    "value": 4089,
+    "uiColor": "red"
+  },
+  {
+    "name": "Mushrooms, Portabella",
+    "keywords": ["mushrooms", "portabella", "portabello"],
+    "value": 4650,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Mushrooms, Cremini",
+    "keywords": ["mushrooms"],
+    "value": 4648,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Mushrooms, Shiitake",
+    "keywords": ["mushrooms"],
+    "value": 4651,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Mushrooms, White",
+    "keywords": ["white mushrooms"],
+    "value": 4085
+  },
+  {
+    "name": "Mushrooms, Oyster",
+    "keywords": ["oyster mushrooms"],
+    "value": 4649
+  },
+  {
+    "name": "Ginger Root",
+    "value": 4612,
+    "uiColor": "brown"
+  },
+  {
+    "name": "Beans, Green",
+    "keywords": ["green beans"],
+    "value": 4066
+  },
+  {
+    "name": "Asparagus, Green",
+    "priority-keywords": ["asparagus"],
+    "value": 4080,
+    "uiColor": "green"
+  },
+  {
+    "name": "Asparagus, Green (Organic)",
+    "keywords": ["organic asparagus"],
+    "value": 94080,
+    "uiColor": "green"
+  },
+  {
+    "name": "Leeks",
+    "value": 4629,
+    "uiColor": "green"
+  },
+  {
+    "name": "Leeks, Organic",
+    "keywords": ["organic leeks"],
+    "value": 94181,
+    "uiColor": "green"
+  },
+  {
+    "name": "Plums, Black",
+    "value": 4039,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Corn, Yellow",
+    "priority-keywords": ["corn"],
+    "keywords": ["yellow corn"],
+    "value": 4078,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Corn, White",
+    "keywords": ["white corn"],
+    "value": 4077,
+    "uiColor": "white"
+  },
+  {
+    "name": "Eggplant",
+    "keywords": ["eggplant"],
+    "value": 4081,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Eggplant, Baby",
+    "keywords": ["baby eggplant"],
+    "value": 4599,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Dragon fruit",
+    "value": 3040,
+    "uiColor": "red"
+  },
+  {
+    "name": "Artichokes",
+    "value": 4084,
+    "uiColor": "green"
+  },
+  {
+    "name": "Beets",
+    "priority-keywords": ["beets"],
+    "value": 4540,
+    "uiColor": "red"
+  },
+  {
+    "name": "Starfruit, Carambola",
+    "value": 4256,
+    "uiColor": "yellow"
+  },
+  {
+    "name": "Okra",
+    "value": 4655,
+    "uiColor": "green"
+  },
+  {
+    "name": "Papayas, Maradol",
+    "value": 3112,
+    "uiColor": "green"
+  },
+  {
+    "name": "Bok Choy",
+    "value": 4545,
+    "uiColor": "green"
+  },
+  {
+    "name": "Bok Choy, Baby",
+    "value": 3136,
+    "uiColor": "green"
+  },
+  {
+    "name": "Bok Choy, Baby",
+    "value": 4544,
+    "uiColor": "green"
+  },
+  {
+    "name": "Pie Pumpkins",
+    "value": 3134,
+    "uiColor": "orange"
+  }
+]
