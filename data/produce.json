@@ -44,24 +44,28 @@
     "name": "Peppers, Red Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["red bell peppers"],
+    "tags": ["bell"],
     "value": 4688
   },
   {
     "name": "Peppers, Orange Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["orange bell peppers"],
+    "tags": ["bell"],
     "value": 3121
   },
   {
     "name": "Peppers, Yellow Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["yellow bell peppers"],
+    "tags": ["bell"],
     "value": 4689
   },
   {
     "name": "Peppers, Green Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["green bell peppers"],
+    "tags": ["bell"],
     "value": 4065
   },
   {
