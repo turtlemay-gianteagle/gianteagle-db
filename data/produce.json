@@ -720,9 +720,14 @@
   },
   {
     "name": "Lettuce, Green Romaine",
-    "keywords": ["green romaine lettuce"],
+    "keywords": ["green romaine lettuce", "green leaf"],
     "priority-keywords": ["romaine"],
     "value": 4640
+  },
+  {
+    "name": "Lettuce, Red Leaf",
+    "keywords": ["red leaf lettuce"],
+    "value": 4641
   },
   {
     "name": "Lettuce, Red Romaine",
