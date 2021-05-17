@@ -489,73 +489,73 @@
   {
     "name": "Apples, Honeycrisp",
     "priority-keywords": ["honeycrisp"],
-    "keywords": ["honeycrisp apples"],
+    "keywords": ["apples", "honeycrisp apples"],
     "value": 3073,
     "uiColor": "red"
   },
   {
     "name": "Apples, Ambrosia",
-    "keywords": ["ambrosia apples"],
+    "keywords": ["apples", "ambrosia apples"],
     "value": 3438,
     "uiColor": "red"
   },
   {
     "name": "Apples, Royal Gala",
-    "keywords": ["gala apples"],
+    "keywords": ["apples", "gala apples"],
     "value": 4174,
     "uiColor": "red"
   },
   {
     "name": "Apples, Granny Smith (Large)",
-    "keywords": ["granny", "granny smith"],
+    "keywords": ["apples", "granny", "granny smith"],
     "value": 4017,
     "uiColor": "green"
   },
   {
     "name": "Apples, Fuji",
-    "keywords": ["fuji apples"],
+    "keywords": ["apples", "fuji apples"],
     "value": 4131,
     "uiColor": "red"
   },
   {
     "name": "Apples, Red Delicious",
-    "keywords": ["red delicious apples"],
+    "keywords": ["apples", "red delicious apples"],
     "value": 4016,
     "uiColor": "red"
   },
   {
     "name": "Apples, Nicoter (Kanzi)",
-    "keywords": ["kanzi apples", "nicoter apples"],
+    "keywords": ["apples", "kanzi apples", "nicoter apples"],
     "value": 3605,
     "uiColor": "red"
   },
   {
     "name": "Apples, Cosmic Crisp",
-    "keywords": ["cosmic crisp apples"],
+    "keywords": ["apples", "cosmic crisp apples"],
     "value": 3507,
     "uiColor": "red"
   },
   {
     "name": "Apples, Pink Lady / Cripps",
-    "keywords": ["pink lady apples", "cripps pink apples"],
+    "keywords": ["apples", "pink lady apples", "cripps pink apples"],
     "value": 4130,
     "uiColor": "red"
   },
   {
     "name": "Apples, McIntosh",
-    "keywords": ["mcintosh apples"],
+    "keywords": ["apples", "mcintosh apples"],
     "value": 4019,
     "uiColor": "red"
   },
   {
     "name": "Apples, Golden Delicious",
-    "keywords": ["golden delicious apples"],
+    "keywords": ["apples", "golden delicious apples"],
     "value": 4020,
     "uiColor": "yellow"
   },
   {
     "name": "Apples, Fuji Brak (Kiku)",
-    "keywords": ["kiku apples"],
+    "keywords": ["apples", "kiku apples"],
     "value": 4020,
     "uiColor": "apple"
   },
@@ -586,7 +586,7 @@
   {
     "name": "Grapes, Black Seedless",
     "priority-keywords": ["black grapes"],
-    "keywords": ["seedless black grapes"],
+    "keywords": ["grapes", "seedless black grapes"],
     "value": 4056,
     "uiColor": "purple"
   },
@@ -599,14 +599,14 @@
   {
     "name": "Grapes, Green Seedless",
     "priority-keywords": ["green grapes"],
-    "keywords": ["seedless green grapes"],
+    "keywords": ["grapes", "seedless green grapes"],
     "value": 4022,
     "uiColor": "green"
   },
   {
     "name": "Grapes, Red Seedless",
     "priority-keywords": ["red grapes"],
-    "keywords": ["seedless red grapes"],
+    "keywords": ["grapes", "seedless red grapes"],
     "value": 4023,
     "uiColor": "purple"
   },
