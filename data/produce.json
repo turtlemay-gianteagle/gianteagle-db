@@ -214,6 +214,11 @@
     "keywords": ["red potatoes"]
   },
   {
+    "name": "Potatoes, Red (Large)",
+    "value": 4073,
+    "keywords": ["red potatoes"]
+  },
+  {
     "name": "Sweet Potatoes, Red",
     "keywords": ["sweet potato", "yam"],
     "value": 4074
@@ -667,6 +672,12 @@
     "keywords": ["herbs", "curley, parsley"],
     "priority-keywords": ["parsley"],
     "value": 4899,
+    "uiColor": "green"
+  },
+  {
+    "name": "Parsley (Flat)",
+    "keywords": ["herbs", "flat parsley"],
+    "value": 4901,
     "uiColor": "green"
   },
   {
