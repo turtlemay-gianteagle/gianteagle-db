@@ -467,6 +467,7 @@
   },
   {
     "name": "Apples, Honeycrisp",
+    "priority-keywords": ["honeycrisp"],
     "keywords": ["honeycrisp apples"],
     "value": 3073,
     "uiColor": "red"
