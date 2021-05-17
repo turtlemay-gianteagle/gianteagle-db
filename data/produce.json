@@ -696,6 +696,7 @@
   },
   {
     "name": "Cabbage, Nappa",
+    "keywords": ["nappa"],
     "value": 4552,
     "uiColor": "green"
   },
