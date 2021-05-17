@@ -912,6 +912,21 @@
     "uiColor": "green"
   },
   {
+    "name": "Pumpkins, Large",
+    "value": 4735,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Pumpkins, Medium",
+    "value": 4736,
+    "uiColor": "orange"
+  },
+  {
+    "name": "Pumpkins, Mini",
+    "value": 4734,
+    "uiColor": "orange"
+  },
+  {
     "name": "Pie Pumpkins",
     "value": 3134,
     "uiColor": "orange"
