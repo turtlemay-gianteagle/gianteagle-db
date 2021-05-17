@@ -564,6 +564,33 @@
     "uiColor": "green"
   },
   {
+    "name": "Grapes, Black Seedless",
+    "priority-keywords": ["black grapes"],
+    "keywords": ["seedless black grapes"],
+    "value": 4056,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Grapes, Black (w/ seeds)",
+    "keywords": ["black grapes"],
+    "value": 4270,
+    "uiColor": "purple"
+  },
+  {
+    "name": "Grapes, Green Seedless",
+    "priority-keywords": ["green grapes"],
+    "keywords": ["seedless green grapes"],
+    "value": 4022,
+    "uiColor": "green"
+  },
+  {
+    "name": "Grapes, Red Seedless",
+    "priority-keywords": ["red grapes"],
+    "keywords": ["seedless red grapes"],
+    "value": 4023,
+    "uiColor": "purple"
+  },
+  {
     "name": "Grapes, Novelty Green Seedless",
     "keywords": ["seedless green grapes"],
     "value": 3501,
@@ -889,5 +916,18 @@
     "keywords": ["cherry"],
     "value": 4258,
     "uiColor": "red"
+  },
+  {
+    "name": "Gourds",
+    "value": 4785
+  },
+  {
+    "name": "Kumquats",
+    "value": 4303
+  },
+  {
+    "name": "Guava",
+    "value": 4299,
+    "uiColor": "green"
   }
 ]
