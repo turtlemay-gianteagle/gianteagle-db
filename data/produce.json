@@ -359,6 +359,13 @@
     "uiColor": "red"
   },
   {
+    "name": "Tomatoes, Homegrown",
+    "priority-keywords": ["homegrown"],
+    "keywords": ["homegrown tomatoes"],
+    "value": 4800,
+    "uiColor": "red"
+  },
+  {
     "name": "Tomatoes, Heirloom",
     "priority-keywords": ["heirloom"],
     "keywords": ["heirloom tomatoes"],
