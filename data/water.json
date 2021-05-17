@@ -1,5 +1,12 @@
 [
   {
+    "name": "Giant Eagle Purified Water - Single Bottle 16.9oz",
+    "priority-keywords": ["water bottle"],
+    "keywords": ["water 1"],
+    "value": "55501",
+    "uiColor": "blue"
+  },
+  {
     "name": "Giant Eagle Purified Water - 24 Pack Bottles",
     "priority-keywords": ["water bottles", "water pack"],
     "keywords": ["water 24", "water bottles pack"],
