@@ -368,7 +368,7 @@
   {
     "name": "Tomatoes, Vine Cluster",
     "priority-keywords": ["vine"],
-    "keywords": ["on the vine", "otv"],
+    "keywords": ["on the vine", "otv", "stem tomatoes"],
     "value": 4664,
     "uiColor": "red"
   },
