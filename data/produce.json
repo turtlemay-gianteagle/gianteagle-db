@@ -876,5 +876,17 @@
     "name": "Pie Pumpkins",
     "value": 3134,
     "uiColor": "orange"
+  },
+  {
+    "name": "Cherries",
+    "keywords": ["cherry"],
+    "value": 4045,
+    "uiColor": "red"
+  },
+  {
+    "name": "Cherries, Rapier",
+    "keywords": ["cherry"],
+    "value": 4258,
+    "uiColor": "red"
   }
 ]
