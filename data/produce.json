@@ -104,19 +104,20 @@
   },
   {
     "name": "Melons, Honeydew",
+    "priority-keywords": ["honeydew"],
     "keywords": ["melon"],
     "value": 4034,
     "uiColor": "green"
   },
   {
     "name": "Melons, Cantaloupe",
-    "priority-keywords": ["melon"],
+    "keywords": ["melon"],
     "value": 4334,
     "uiColor": "yellow"
   },
   {
     "name": "Melons, Cantaloupe",
-    "priority-keywords": ["melon"],
+    "keywords": ["melon"],
     "value": 4050,
     "uiColor": "yellow"
   },
@@ -135,7 +136,7 @@
     "uiColor": "red"
   },
   {
-    "name": "Melons, Watermelon Seeded",
+    "name": "Melons, Watermelon (Seeded)",
     "keywords": ["seeded watermelon"],
     "value": 4031,
     "uiColor": "red"
