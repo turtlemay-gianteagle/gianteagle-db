@@ -1,0 +1,22 @@
+[
+	{
+		"name": "United Way Donation",
+		"value": "75118",
+		"uiColor": "blue"
+	},
+	{
+		"name": "$1 United Way Donation",
+		"value": "15115",
+		"uiColor": "blue"
+	},
+	{
+		"name": "$2 United Way Donation",
+		"value": "25115",
+		"uiColor": "blue"
+	},
+	{
+		"name": "$5 United Way Donation",
+		"value": "55115",
+		"uiColor": "blue"
+	}
+]
