@@ -35,6 +35,12 @@
     "uiColor": "yellow"
   },
   {
+    "name": "Peppers, Assorted",
+    "priority-keywords": ["mixpep"],
+    "keywords": ["mixed peppers", "assorted peppers"],
+    "value": "4710"
+  },
+  {
     "name": "Peppers, Red Bell",
     "keywords": ["bell peppers"],
     "priority-keywords": ["red bell peppers"],
