@@ -13,6 +13,12 @@
     "uiColor": "white"
   },
   {
+    "name": "Moocho payment",
+    "tags": ["reg"],
+    "value": "9066",
+    "uiColor": "blue"
+  },
+  {
     "name": "Firewood, Eco Forest Estonian Split European White Birch",
     "keywords": ["firewood", "wood"],
     "value": "897162000500"
