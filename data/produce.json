@@ -66,13 +66,13 @@
   },
   {
     "name": "Pineapple",
-    "priority-keywords": ["pineapple"],
+    "keywords": ["pineapple"],
     "value": 4430,
     "uiColor": "yellow"
   },
   {
     "name": "Pineapple",
-    "priority-keywords": ["pineapple"],
+    "keywords": ["pineapple"],
     "value": "5397005027756",
     "uiColor": "yellow"
   },
