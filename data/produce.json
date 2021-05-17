@@ -241,6 +241,12 @@
     "value": 3107
   },
   {
+    "name": "Oranges, Blood",
+    "priority-keywords": ["blood"],
+    "keywords": ["blood oranges"],
+    "value": 4381
+  },
+  {
     "name": "Grapefruit, Pink (Star Ruby)",
     "priority-keywords": ["grapefruit"],
     "value": 4288
