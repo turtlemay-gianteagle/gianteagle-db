@@ -366,10 +366,17 @@
     "uiColor": "red"
   },
   {
-    "name": "Tomatoes, Heirloom",
+    "name": "Tomatoes, Heirloom (Mixed)",
     "priority-keywords": ["heirloom"],
     "keywords": ["heirloom tomatoes"],
     "value": 4955,
+    "uiColor": "red"
+  },
+  {
+    "name": "Tomatoes, Heirloom (Red)",
+    "priority-keywords": ["heirloom"],
+    "keywords": ["heirloom tomatoes"],
+    "value": 3423,
     "uiColor": "red"
   },
   {
