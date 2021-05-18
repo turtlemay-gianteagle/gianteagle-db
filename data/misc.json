@@ -22,5 +22,11 @@
     "name": "Firewood, Eco Forest Estonian Split European White Birch",
     "keywords": ["firewood", "wood"],
     "value": "897162000500"
+  },
+  {
+    "name": "Boston Fern 10\"",
+    "keywords": ["fern"],
+    "value": "033383969404",
+    "uiColor": "green"
   }
 ]
