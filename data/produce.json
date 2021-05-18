@@ -147,23 +147,23 @@
   },
   {
     "name": "Onions, Red",
-    "keywords": ["onion", "red onions"],
+    "keywords": ["onions", "red onions"],
     "value": 4082
   },
   {
     "name": "Onions, Red Peeled (Large)",
-    "keywords": ["peeled red onions"],
+    "keywords": ["peeled", "red onions"],
     "value": 4669
   },
   {
     "name": "Onions, Sweet",
-    "keywords": ["sweet onion"],
+    "keywords": ["sweet onions"],
     "value": 4166,
     "uiColor": "yellow"
   },
   {
     "name": "Onions, Vidalia",
-    "keywords": ["vidalia onion", "sweet onion"],
+    "keywords": ["vidalia onions", "sweet onions"],
     "value": 4159,
     "uiColor": "yellow"
   },
@@ -185,7 +185,7 @@
   },
   {
     "name": "Onions, Spanish",
-    "keywords": ["spanish onion"],
+    "keywords": ["spanish onions"],
     "value": 4093
   },
   {
