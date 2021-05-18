@@ -12,9 +12,5 @@
     "foy": "^0.2.3",
     "gianteagle-db-schema": "turtlemay-gianteagle/gianteagle-db-schema",
     "jsonschema": "^1.4.0"
-  },
-  "dependencies": {
-    "g": "^2.0.1",
-    "npm": "^7.13.0"
   }
 }
