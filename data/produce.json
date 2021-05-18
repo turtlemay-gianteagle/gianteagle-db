@@ -174,13 +174,13 @@
     "uiColor": "brown"
   },
   {
-    "name": "Onions, White (Not Peeled)",
-    "keywords": ["onion", "white onions"],
+    "name": "Onions, White",
+    "keywords": ["white onions"],
     "value": 4663
   },
   {
     "name": "Onions, White Peeled",
-    "keywords": ["peeled white onions"],
+    "keywords": ["white onions", "peeled"],
     "value": 4670
   },
   {
