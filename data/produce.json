@@ -483,12 +483,14 @@
   {
     "name": "Snow Peas",
     "priority-keywords": ["snow"],
+    "keywords": ["peas"],
     "value": 4092,
     "uiColor": "green"
   },
   {
     "name": "Sugar Snap Peas",
     "priority-keywords": ["snap"],
+    "keywords": ["peas"],
     "value": 4675,
     "uiColor": "green"
   },
