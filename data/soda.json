@@ -7,6 +7,13 @@
         "uiColor": "green"
     },
     {
+        "name": "Sprite, Zero Sugar, 12pk",
+        "priority-keywords": ["sprite zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "049000037111",
+        "uiColor": "green"
+    },
+    {
         "name": "Coca-Cola, 12pk",
         "priority-keywords": ["coke", "coca-cola"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -28,10 +35,31 @@
         "uiColor": "red"
     },
     {
-        "name": "Coca-Cola Zero Sugar, 12pk",
+        "name": "Coca-Cola Cherry, Zero Sugar, 12pk",
+        "priority-keywords": ["cherry coke zero", "coca-cola zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "049000047516",
+        "uiColor": "black"
+    },
+    {
+        "name": "Coca-Cola, Zero Sugar, 12pk",
         "priority-keywords": ["coke zero"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "049000042559",
+        "uiColor": "black"
+    },
+    {
+        "name": "Coca-Cola Vanilla Zero, 12pk",
+        "priority-keywords": ["coke vanilla zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "049000048254",
+        "uiColor": "black"
+    },
+    {
+        "name": "Diet Coca-Cola, Caffeine-Free, 12pk",
+        "priority-keywords": ["coke caffeine-free"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "caffeine-free"],
+        "value": "brown",
         "uiColor": "black"
     },
     {
@@ -47,6 +75,13 @@
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "078000083163",
         "uiColor": "red"
+    },
+    {
+        "name": "Dr. Pepper, Zero Sugar, 12pk",
+        "priority-keywords": ["dr. pepper zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "078000035261",
+        "uiColor": "black"
     },
     {
         "name": "Pepsi Cola, 12pk",
@@ -77,6 +112,20 @@
         "uiColor": "black"
     },
     {
+        "name": "Pepsi Caffeine-Free Soda, 12pk",
+        "priority-keywords": ["pepsi caffeine-free"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "caffeine-free"],
+        "value": "012000810022",
+        "uiColor": "brown"
+    },
+    {
+        "name": "Diet Pepsi Caffeine-Free Soda, 12pk",
+        "priority-keywords": ["diet pepsi caffeine-free"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "caffeine-free"],
+        "value": "012000172090",
+        "uiColor": "white"
+    },
+    {
         "name": "Mountain Dew, 12pk",
         "priority-keywords": ["mountain dew"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -89,6 +138,13 @@
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "012000809972",
         "uiColor": "green"
+    },
+    {
+        "name": "Mountain Dew, Zero Sugar, 12pk",
+        "priority-keywords": ["mountain dew zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "012000191442",
+        "uiColor": "black"
     },
     {
         "name": "Mountain Dew Code Red, 12pk",
@@ -105,6 +161,20 @@
         "uiColor": "orange"
     },
     {
+        "name": "Crush Diet Orange Soda, 12pk",
+        "priority-keywords": ["diet orange crush"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000013894",
+        "uiColor": "orange"
+    },
+    {
+        "name": "Crush Grape Soda, 12pk",
+        "priority-keywords": ["crush grape"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000013450",
+        "uiColor": "purple"
+    },
+    {
         "name": "Sunkist Orange Soda, 12pk",
         "priority-keywords": ["sunkist"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -119,10 +189,24 @@
         "uiColor": "orange"
     },
     {
+        "name": "Sunkist Orange Soda, Zero Sugar, 12pk",
+        "priority-keywords": ["sunkist zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "078000122169",
+        "uiColor": "blue"
+    },
+    {
         "name": "Canada Dry Ginger Ale, 12pk",
         "priority-keywords": ["canada dry", "ginger ale"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "078000152166",
+        "uiColor": "green"
+    },
+    {
+        "name": "Canada Dry Ginger Ale, Zero Sugar, 12pk",
+        "priority-keywords": ["canada dry zero", "ginger ale zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "078000148169",
         "uiColor": "green"
     },
     {
@@ -147,6 +231,19 @@
         "uiColor": "brown"
     },
     {
+        "name": "A&W Root Beer, Zero Sugar, 12pk",
+        "priority-keywords": ["a&w root beer zero", "aw root beer zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "078000053166",
+        "uiColor": "brown"
+    },
+    {
+        "name": "Barq's Root Beer",
+        "priority-keywords": ["barq's root beer", "barq's root beer"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "uiColor": "white"
+    },
+    {
         "name": "7UP, 12pk",
         "priority-keywords": ["7up", "seven up", "sevenup"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -159,5 +256,54 @@
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "078000011685",
         "uiColor": "green"
+    },
+    {
+        "name": "7UP, Zero Sugar, 12pk",
+        "priority-keywords": ["7up zero", "seven up zero", "sevenup zero"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
+        "value": "078000011814",
+        "uiColor": "green"
+    },
+    {
+        "name": "Coca-Cola Fresca Citrus Soda, 12pk",
+        "priority-keywords": ["fresca"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000031058",
+        "uiColor": "blue"
+    },
+    {
+        "name": "Squirt Citrus Soda, 12pk",
+        "priority-keywords": ["squirt"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000016161",
+        "uiColor": "yellow"
+    },
+    {
+        "name": "Vernors Soda, Ginger, 12pk",
+        "priority-keywords": ["vernors"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000180169",
+        "uiColor": "green"
+    },
+    {
+        "name": "Vernors Soda, Ginger, Diet, 12pk",
+        "priority-keywords": ["diet vernors"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000182163",
+        "uiColor": "brown"
+    },
+    {
+        "name": "Fanta Orange Soda, 12pk",
+        "priority-keywords": ["fanta"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000030730",
+        "uiColor": "orange"
+    },
+    {
+        "name": "Sierra Mist Lemon Lime Soda, 12pk",
+        "priority-keywords": ["sierra mist"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "012000150173",
+        "uiColor": "yellow"
     }
 ]
