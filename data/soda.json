@@ -49,6 +49,13 @@
         "uiColor": "black"
     },
     {
+        "name": "Coca-Cola Vanilla , 12pk",
+        "priority-keywords": ["coke vanilla"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000031249",
+        "uiColor": "brown"
+    },
+    {
         "name": "Coca-Cola Vanilla Zero, 12pk",
         "priority-keywords": ["coke vanilla zero"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
