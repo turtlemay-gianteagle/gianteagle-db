@@ -59,8 +59,8 @@
         "name": "Diet Coca-Cola, Caffeine-Free, 12pk",
         "priority-keywords": ["coke caffeine-free"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans", "caffeine-free"],
-        "value": "brown",
-        "uiColor": "black"
+        "value": "049000029345",
+        "uiColor": "brown"
     },
     {
         "name": "Dr. Pepper, 12pk",
