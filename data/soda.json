@@ -245,6 +245,13 @@
         "uiColor": "white"
     },
     {
+        "name": "Barq's Creme Soda, Red",
+        "priority-keywords": ["barq's creme soda", "barq's creme soda"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000033076",
+        "uiColor": "red"
+    },
+    {
         "name": "7UP, 12pk",
         "priority-keywords": ["7up", "seven up", "sevenup"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
