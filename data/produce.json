@@ -813,12 +813,14 @@
   },
   {
     "name": "Mushrooms, Cremini",
+    "priority-keywords": ["cremini"],
     "keywords": ["mushrooms"],
     "value": 4648,
     "uiColor": "brown"
   },
   {
     "name": "Mushrooms, Shiitake",
+    "priority-keywords": ["shiitake"],
     "keywords": ["mushrooms"],
     "value": 4651,
     "uiColor": "brown"
