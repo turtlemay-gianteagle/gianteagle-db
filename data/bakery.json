@@ -3,48 +3,56 @@
     "name": "Bagel, 1 ct",
     "priority-keywords": [],
     "keywords": ["bakery"],
+    "tags": ["bagel"],
     "value": "531"
   },
   {
     "name": "Bagels, 6 ct",
     "priority-keywords": [],
     "keywords": ["bakery", "half dozen"],
+    "tags": ["bagel"],
     "value": "525"
   },
   {
     "name": "Bagels, 12 ct",
     "priority-keywords": [],
     "keywords": ["bakery", "dozen"],
+    "tags": ["bagel"],
     "value": "534"
   },
   {
     "name": "Donut, 1 ct",
     "priority-keywords": [],
     "keywords": ["bakery"],
+    "tags": ["donut"],
     "value": "533"
   },
   {
     "name": "Donuts, 6 ct",
     "priority-keywords": [],
     "keywords": ["bakery", "half dozen"],
+    "tags": ["donut"],
     "value": "517"
   },
   {
     "name": "Donuts, 12 ct",
     "priority-keywords": [],
     "keywords": ["bakery", "dozen"],
+    "tags": ["donut"],
     "value": "539"
   },
   {
     "name": "Muffin, 1 ct",
     "priority-keywords": [],
     "keywords": ["bakery"],
+    "tags": ["muffin"],
     "value": "523"
   },
   {
     "name": "Muffins, 4 ct",
     "priority-keywords": [],
     "keywords": ["bakery"],
+    "tags": ["muffin"],
     "value": "518"
   }
 ]

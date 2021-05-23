@@ -1,21 +1,25 @@
 [
 	{
 		"name": "United Way Donation",
+		"tags": ["donation"],
 		"value": "75118",
 		"uiColor": "blue"
 	},
 	{
 		"name": "$1 United Way Donation",
+		"tags": ["donation"],
 		"value": "15115",
 		"uiColor": "blue"
 	},
 	{
 		"name": "$2 United Way Donation",
+		"tags": ["donation"],
 		"value": "25115",
 		"uiColor": "blue"
 	},
 	{
 		"name": "$5 United Way Donation",
+		"tags": ["donation"],
 		"value": "55115",
 		"uiColor": "blue"
 	}

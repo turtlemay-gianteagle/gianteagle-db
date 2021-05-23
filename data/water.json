@@ -38,12 +38,14 @@
     "name": "Home City Ice Bag, 7lb",
     "value": "385",
     "priority-keywords": ["ice", "ice 7"],
+    "tags": ["ice"],
     "uiColor": "blue"
   },
   {
     "name": "Home City Ice Bag, 22lb",
     "value": "386",
     "priority-keywords": ["ice", "ice 22"],
+    "tags": ["ice"],
     "uiColor": "blue"
   }
 ]
