@@ -17,5 +17,11 @@
     "tags": ["reg"],
     "value": "9066",
     "uiColor": "blue"
+  },
+  {
+    "name": "Kingsford Charcoal, Briquets, The Original, Value Size",
+    "priority-keywords": ["charcoal"],
+    "value": "044600320687",
+    "uiColor": "black"
   }
 ]
