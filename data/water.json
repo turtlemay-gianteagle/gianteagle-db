@@ -33,5 +33,17 @@
     "keywords": ["water bottles pack"],
     "value": "012000504044",
     "uiColor": "blue"
+  },
+  {
+    "name": "Water refill own jug",
+    "priority-keywords": ["water refill"],
+    "value": "402",
+    "uiColor": "blue"
+  },
+  {
+    "name": "Water refill with jug",
+    "priority-keywords": ["water refill"],
+    "value": "403",
+    "uiColor": "blue"
   }
 ]
