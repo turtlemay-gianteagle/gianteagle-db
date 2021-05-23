@@ -106,7 +106,7 @@
     },
     {
         "name": "Pepsi Wild Cherry Cola, 12pk",
-        "priority-keywords": ["cherry pepsi"],
+        "priority-keywords": ["cherry pepsi", "pepsi cherry"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "012000809996",
         "uiColor": "blue"
