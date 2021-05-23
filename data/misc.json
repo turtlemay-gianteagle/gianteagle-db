@@ -19,6 +19,18 @@
     "uiColor": "blue"
   },
   {
+    "name": "Propane New Tank",
+    "keywords": ["propane"],
+    "value": "75059",
+    "uiColor": "white"
+  },
+  {
+    "name": "Propane Refill Tank",
+    "keywords": ["propane", "refill"],
+    "value": "75058",
+    "uiColor": "white"
+  },
+  {
     "name": "Kingsford Charcoal, Briquets, The Original, Value Size",
     "priority-keywords": ["charcoal"],
     "value": "044600320687",
