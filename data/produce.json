@@ -403,6 +403,11 @@
     "uiColor": "green"
   },
   {
+    "name": "Tomatillos",
+    "value": 4801,
+    "uiColor": "green"
+  },
+  {
     "name": "Tomatoes, Beefsteak",
     "value": 3061,
     "uiColor": "red"
