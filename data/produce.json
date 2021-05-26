@@ -503,8 +503,16 @@
     "name": "Apples, Honeycrisp",
     "priority-keywords": ["honeycrisp"],
     "keywords": ["apples", "honeycrisp apples"],
-    "value": 3073,
+    "value": 3283,
     "uiColor": "red"
+  },
+  {
+    "name": "Apples, Honeycrisp",
+    "priority-keywords": ["honeycrisp"],
+    "keywords": ["apples", "honeycrisp apples"],
+    "value": 3073,
+    "uiColor": "red",
+    "duplicate": true
   },
   {
     "name": "Apples, Ambrosia",
