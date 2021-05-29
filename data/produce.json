@@ -1003,5 +1003,15 @@
     "name": "Guava",
     "value": 4299,
     "uiColor": "green"
+  },
+  {
+    "name": "Broccolini",
+    "value": "07266880111",
+    "uiColor": "green"
+  },
+  {
+    "name": "Rapini",
+    "value": "4547",
+    "uiColor": "green"
   }
 ]

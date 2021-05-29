@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "gianteagle-db",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "scripts": {
     "validate": "foy validate",
     "build": "foy build",
