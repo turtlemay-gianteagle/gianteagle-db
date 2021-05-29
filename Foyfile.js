@@ -1,7 +1,7 @@
 const { task, fs } = require("foy");
 const { Validator } = require("jsonschema");
 const manifestJson = require("./manifest.json");
-const schemaJson = require("gianteagle-db-schema/schema.json");
+const schemaJson = require("turtlemay-cashier-db-schema/schema.json");
 
 const BUILD_DIR = `${__dirname}/build`;
 

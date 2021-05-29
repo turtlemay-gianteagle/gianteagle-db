@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/node": "^15.3.0",
     "foy": "^0.2.3",
-    "gianteagle-db-schema": "turtlemay-gianteagle/gianteagle-db-schema",
-    "jsonschema": "^1.4.0"
+    "jsonschema": "^1.4.0",
+    "turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
   }
 }
