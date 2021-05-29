@@ -30,6 +30,7 @@ function buildData() {
   return {
     name: manifestJson.name,
     version: manifestJson.version,
+    organization: manifestJson.organization || undefined,
     items: readData(),
   };
 }
