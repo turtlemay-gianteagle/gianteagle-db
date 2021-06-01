@@ -213,7 +213,8 @@
     "name": "Onions, Spanish",
     "keywords": ["spanish onions"],
     "tags": ["produce"],
-    "value": 4093
+    "value": 4093,
+    "uiColor": "yellow"
   },
   {
     "name": "Garlic, Bulk",
