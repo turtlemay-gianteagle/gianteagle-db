@@ -1180,5 +1180,19 @@
     "tags": ["produce"],
     "value": "4547",
     "uiColor": "green"
+  },
+  {
+    "name": "Green Chard, Organic",
+    "keywords": ["chard"],
+    "tags": ["produce"],
+    "value": "4586",
+    "uiColor": "green"
+  },
+  {
+    "name": "Red Chard, Organic",
+    "keywords": ["chard"],
+    "tags": ["produce"],
+    "value": "4587",
+    "uiColor": "red"
   }
 ]
