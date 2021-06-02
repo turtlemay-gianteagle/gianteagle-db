@@ -1,49 +1,49 @@
 [
-  {
-    "name": "Giant Eagle Purified Water - Single Bottle 16.9oz",
-    "priority-keywords": ["water bottle"],
-    "keywords": ["water 1"],
-    "value": "55501",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Giant Eagle Purified Water - 24 Pack Bottles",
-    "priority-keywords": ["water bottles", "water pack"],
-    "keywords": ["water 24", "water bottles pack"],
-    "value": "030034072940",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Giant Eagle Purified Water - 32 Pack Bottles",
-    "priority-keywords": ["water bottles", "water pack"],
-    "keywords": ["water 32", "water bottles pack"],
-    "value": "030034934583",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Deer Park 100% Natural Spring Water - 24 Pack Bottles",
-    "priority-keywords": ["deer park"],
-    "keywords": ["water bottles pack"],
-    "value": "082657504063",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Aquafina Purified Drinking Water, 100% Natural Spring Water - 24 Pack Bottles",
-    "priority-keywords": ["aquafina"],
-    "keywords": ["water bottles pack"],
-    "value": "012000504044",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Water refill own jug",
-    "priority-keywords": ["water refill"],
-    "value": "402",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Water refill with jug",
-    "priority-keywords": ["water refill"],
-    "value": "403",
-    "uiColor": "blue"
-  }
+	{
+		"name": "Giant Eagle Purified Water - Single Bottle 16.9oz",
+		"priority-keywords": ["water bottle"],
+		"keywords": ["water 1"],
+		"value": "55501",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Giant Eagle Purified Water - 24 Pack Bottles",
+		"priority-keywords": ["water bottles", "water pack"],
+		"keywords": ["water 24", "water bottles pack"],
+		"value": "030034072940",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Giant Eagle Purified Water - 32 Pack Bottles",
+		"priority-keywords": ["water bottles", "water pack"],
+		"keywords": ["water 32", "water bottles pack"],
+		"value": "030034934583",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Deer Park 100% Natural Spring Water - 24 Pack Bottles",
+		"priority-keywords": ["deer park"],
+		"keywords": ["water bottles pack"],
+		"value": "082657504063",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Aquafina Purified Drinking Water, 100% Natural Spring Water - 24 Pack Bottles",
+		"priority-keywords": ["aquafina"],
+		"keywords": ["water bottles pack"],
+		"value": "012000504044",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Water refill own jug",
+		"priority-keywords": ["water refill"],
+		"value": "402",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Water refill with jug",
+		"priority-keywords": ["water refill"],
+		"value": "403",
+		"uiColor": "blue"
+	}
 ]

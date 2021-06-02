@@ -1,16 +1,16 @@
 {
-  "private": true,
-  "name": "gianteagle-db",
-  "version": "0.5.0",
-  "scripts": {
-    "validate": "foy validate",
-    "build": "foy build",
-    "postinstall": "foy build"
-  },
-  "devDependencies": {
-    "@types/node": "^15.3.0",
-    "foy": "^0.2.3",
-    "jsonschema": "^1.4.0",
-    "turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
-  }
+	"private": true,
+	"name": "gianteagle-db",
+	"version": "0.5.0",
+	"scripts": {
+		"validate": "foy validate",
+		"build": "foy build",
+		"postinstall": "foy build"
+	},
+	"devDependencies": {
+		"@types/node": "^15.3.0",
+		"foy": "^0.2.3",
+		"jsonschema": "^1.4.0",
+		"turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
+	}
 }

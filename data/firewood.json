@@ -1,23 +1,23 @@
 [
-  {
-    "name": "Firewood, Eco Forest Estonian Split European White Birch",
-    "keywords": ["firewood", "wood"],
-    "tags": ["firewood"],
-    "value": "897162000500",
-    "uiColor": "brown"
-  },
-  {
-    "name": "Essay Group Simple Simon Firewood",
-    "keywords": ["firewood", "wood"],
-    "tags": ["firewood"],
-    "value": "897162000258",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Hotsticks Kindling Kiln Dried Firewood",
-    "keywords": ["firewood", "wood"],
-    "tags": ["firewood"],
-    "value": "689725000306",
-    "uiColor": "orange"
-  }
+	{
+		"name": "Firewood, Eco Forest Estonian Split European White Birch",
+		"keywords": ["firewood", "wood"],
+		"tags": ["firewood"],
+		"value": "897162000500",
+		"uiColor": "brown"
+	},
+	{
+		"name": "Essay Group Simple Simon Firewood",
+		"keywords": ["firewood", "wood"],
+		"tags": ["firewood"],
+		"value": "897162000258",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Hotsticks Kindling Kiln Dried Firewood",
+		"keywords": ["firewood", "wood"],
+		"tags": ["firewood"],
+		"value": "689725000306",
+		"uiColor": "orange"
+	}
 ]

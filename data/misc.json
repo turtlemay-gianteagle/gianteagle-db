@@ -1,39 +1,39 @@
 [
-  {
-    "name": "Store 6539 Courtesy Card",
-    "keywords": ["ghost card", "store card"],
-    "tags": ["reg"],
-    "value": "49999653911"
-  },
-  {
-    "name": "USPS Postage Stamps",
-    "priority-keywords": ["stamps"],
-    "tags": ["reg"],
-    "value": "9396",
-    "uiColor": "white"
-  },
-  {
-    "name": "Moocho payment",
-    "tags": ["reg"],
-    "value": "9066",
-    "uiColor": "blue"
-  },
-  {
-    "name": "Propane New Tank",
-    "keywords": ["propane"],
-    "value": "75059",
-    "uiColor": "white"
-  },
-  {
-    "name": "Propane Refill Tank",
-    "keywords": ["propane", "refill"],
-    "value": "75058",
-    "uiColor": "white"
-  },
-  {
-    "name": "Kingsford Charcoal, Briquets, The Original, Value Size",
-    "priority-keywords": ["charcoal"],
-    "value": "044600320687",
-    "uiColor": "black"
-  }
+	{
+		"name": "Store 6539 Courtesy Card",
+		"keywords": ["ghost card", "store card"],
+		"tags": ["reg"],
+		"value": "49999653911"
+	},
+	{
+		"name": "USPS Postage Stamps",
+		"priority-keywords": ["stamps"],
+		"tags": ["reg"],
+		"value": "9396",
+		"uiColor": "white"
+	},
+	{
+		"name": "Moocho payment",
+		"tags": ["reg"],
+		"value": "9066",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Propane New Tank",
+		"keywords": ["propane"],
+		"value": "75059",
+		"uiColor": "white"
+	},
+	{
+		"name": "Propane Refill Tank",
+		"keywords": ["propane", "refill"],
+		"value": "75058",
+		"uiColor": "white"
+	},
+	{
+		"name": "Kingsford Charcoal, Briquets, The Original, Value Size",
+		"priority-keywords": ["charcoal"],
+		"value": "044600320687",
+		"uiColor": "black"
+	}
 ]
