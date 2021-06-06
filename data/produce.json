@@ -180,6 +180,13 @@
 		"name": "Onions, Sweet",
 		"keywords": ["sweet onions"],
 		"tags": ["produce"],
+		"value": 4851,
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Onions, Sweet",
+		"keywords": ["sweet onions"],
+		"tags": ["produce"],
 		"value": 4166,
 		"uiColor": "yellow"
 	},
