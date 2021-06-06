@@ -667,9 +667,10 @@
 	},
 	{
 		"name": "Apples, Fuji Brak (Kiku)",
+		"priority-keywords": ["kiku"],
 		"keywords": ["apples", "kiku apples"],
 		"tags": ["produce"],
-		"value": 4020,
+		"value": 3613,
 		"uiColor": "apple"
 	},
 	{
