@@ -1020,6 +1020,13 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Asparagus, White",
+		"priority-keywords": ["white asparagus"],
+		"tags": ["produce"],
+		"value": "4523",
+		"uiColor": "white"
+	},
+	{
 		"name": "Leeks",
 		"priority-keywords": ["leeks"],
 		"tags": ["produce"],
