@@ -120,6 +120,13 @@
 		"uiColor": "orange"
 	},
 	{
+		"name": "Mangoes, Gold",
+		"priority-keywords": ["gold mangoes"],
+		"tags": ["produce"],
+		"value": 4961,
+		"uiColor": "orange"
+	},
+	{
 		"name": "Melons, Honeydew",
 		"priority-keywords": ["honeydew"],
 		"keywords": ["melon"],
