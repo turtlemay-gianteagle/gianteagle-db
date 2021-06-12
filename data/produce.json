@@ -1202,5 +1202,11 @@
 		"tags": ["produce"],
 		"value": "4587",
 		"uiColor": "red"
+	},
+	{
+		"name": "Figs",
+		"tags": ["produce"],
+		"value": "4266",
+		"uiColor": "brown"
 	}
 ]
