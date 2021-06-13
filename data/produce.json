@@ -1211,6 +1211,18 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Broccolini",
+		"tags": ["produce"],
+		"value": "3277",
+		"uiColor": "green"
+	},
+	{
+		"name": "Broccolini (Organic)",
+		"tags": ["produce"],
+		"value": "93277",
+		"uiColor": "green"
+	},
+	{
 		"name": "Rapini",
 		"tags": ["produce"],
 		"value": "4547",
