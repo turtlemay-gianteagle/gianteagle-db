@@ -270,6 +270,13 @@
 		"value": 4073
 	},
 	{
+		"name": "Potatoes, Gold",
+		"keywords": ["gold potatoes"],
+		"tags": ["produce"],
+		"value": 4727,
+		"uiColor": "yellow"
+	},
+	{
 		"name": "Sweet Potatoes, Red",
 		"keywords": ["sweet potato", "yams"],
 		"tags": ["produce"],
