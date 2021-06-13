@@ -1054,6 +1054,19 @@
 		"uiColor": "purple"
 	},
 	{
+		"name": "Plums, Black",
+		"tags": ["produce"],
+		"keywords": ["plum"],
+		"value": 4040,
+		"uiColor": "purple"
+	},
+	{
+		"name": "Plums, Red",
+		"tags": ["produce"],
+		"value": 4041,
+		"uiColor": "purple"
+	},
+	{
 		"name": "Corn, Yellow",
 		"priority-keywords": ["corn"],
 		"keywords": ["yellow corn"],
