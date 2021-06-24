@@ -536,6 +536,13 @@
 		"uiColor": "red"
 	},
 	{
+		"name": "Peaches (Chambersburg)",
+		"priority-keywords": ["peaches"],
+		"tags": ["produce"],
+		"value": 4403,
+		"uiColor": "orange"
+	},
+	{
 		"name": "Peaches",
 		"keywords": ["peaches"],
 		"tags": ["produce"],
