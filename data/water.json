@@ -45,5 +45,11 @@
 		"priority-keywords": ["water refill"],
 		"value": "403",
 		"uiColor": "blue"
+	},
+	{
+		"name": "Primo 5 gallon water",
+		"priority-keywords": ["5 gallon"],
+		"value": "851199001008",
+		"uiColor": "blue"
 	}
 ]
