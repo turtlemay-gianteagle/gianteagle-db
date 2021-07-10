@@ -1,5 +1,11 @@
 [
 	{
+		"name": "General Tso",
+		"keywords": ["restaurant"],
+		"tags": ["restaurant"],
+		"value": "16817"
+	},
+	{
 		"name": "Sizzling Wok",
 		"keywords": ["restaurant"],
 		"tags": ["restaurant"],
