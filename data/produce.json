@@ -1261,5 +1261,11 @@
 		"tags": ["produce"],
 		"value": "4266",
 		"uiColor": "brown"
+	},
+	{
+		"name": "Golden Berries",
+		"tags": ["produce"],
+		"keywords": ["golden berry"],
+		"value": "847380001797"
 	}
 ]
