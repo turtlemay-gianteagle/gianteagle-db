@@ -426,6 +426,14 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Cucumber, Pickling",
+		"priority-keywords": ["pickling"],
+		"keywords": ["pickling cucumber", "pickle"],
+		"tags": ["produce"],
+		"value": "4596",
+		"uiColor": "green"
+	},
+	{
 		"name": "Tomatoes, Green",
 		"keywords": ["green tomatoes"],
 		"tags": ["produce"],
@@ -1267,5 +1275,19 @@
 		"tags": ["produce"],
 		"keywords": ["golden berry"],
 		"value": "847380001797"
+	},
+	{
+		"name": "Tomatoes, Yellow",
+		"keywords": ["yellow tomatoes"],
+		"tags": ["produce"],
+		"value": "4778",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Yellow Corn, 5-pack",
+		"keywords": ["corn pack"],
+		"tags": ["produce"],
+		"value": "606332701396",
+		"uiColor": "yellow"
 	}
 ]
