@@ -639,6 +639,14 @@
 		"uiColor": "red"
 	},
 	{
+		"name": "Apples, Gala",
+		"keywords": ["apples", "gala apples"],
+		"priority-keywords": ["gala"],
+		"tags": ["produce"],
+		"value": "4134",
+		"uiColor": "red"
+	},
+	{
 		"name": "Apples, Royal Gala",
 		"keywords": ["apples", "gala apples"],
 		"tags": ["produce"],
