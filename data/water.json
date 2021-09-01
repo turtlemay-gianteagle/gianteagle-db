@@ -48,13 +48,13 @@
 	},
 	{
 		"name": "Primo 5 gallon water",
-		"priority-keywords": ["5 gallon"],
+		"keywords": ["primo water", "5 gallon"],
 		"value": "851199001008",
 		"uiColor": "blue"
 	},
 	{
 		"name": "Primo 5 gallon water exchange",
-		"priority-keywords": ["5 gallon"],
+		"keywords": ["primo water", "primo exchange", "primo discount", "5 gallon"],
 		"value": "851199001022",
 		"uiColor": "blue"
 	}
