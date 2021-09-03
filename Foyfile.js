@@ -6,7 +6,7 @@ const schemaJson = require("turtlemay-cashier-db-schema/schema.json");
 const BUILD_DIR = `${__dirname}/build`;
 const DATA_DIR = `${__dirname}/data`;
 
-task("build", ["validate"], async (ctx) => {
+task("build", ["clean", "validate"], async (ctx) => {
 	await fs.outputJson(`${BUILD_DIR}/data.json`, buildData());
 });
 
