@@ -4,6 +4,7 @@ const manifestJson = require("./manifest.json");
 const schemaJson = require("turtlemay-cashier-db-schema/schema.json");
 
 const BUILD_DIR = `${__dirname}/build`;
+const DATA_DIR = `${__dirname}/data`;
 
 task("build", ["validate"], async (ctx) => {
 	await fs.outputJson(`${BUILD_DIR}/data.json`, buildData());
@@ -31,7 +32,7 @@ function buildData() {
 		name: manifestJson.name,
 		version: manifestJson.version,
 		organization: manifestJson.organization || undefined,
-		items: readData(),
+		items: readData(DATA_DIR),
 	};
 }
 
@@ -39,7 +40,7 @@ function buildData() {
  * @param {string} dataDir Read all files from this directory as JSON.
  * @returns {Array} An array of item data objects.
  */
-function readData(dataDir = `${__dirname}/data`) {
+function readData(dataDir) {
 	const fileNames = fs.readdirSync(dataDir);
 	const filePaths = fileNames.map((fileName) => `${dataDir}/${fileName}`);
 	const fileContentsArr = filePaths.map((v) => fs.readFileSync(v, "utf-8"));
