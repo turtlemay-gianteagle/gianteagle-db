@@ -1297,5 +1297,11 @@
 		"tags": ["produce"],
 		"value": "606332701396",
 		"uiColor": "yellow"
+	},
+	{
+		"name": "Pomegranates",
+		"tags": ["produce"],
+		"value": "3440",
+		"uiColor": "red"
 	}
 ]
