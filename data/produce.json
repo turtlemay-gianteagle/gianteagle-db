@@ -1206,6 +1206,12 @@
 		"uiColor": "orange"
 	},
 	{
+		"name": "Pumpkins, Bin",
+		"tags": ["produce"],
+		"value": "3132",
+		"uiColor": "orange"
+	},
+	{
 		"name": "Cherries",
 		"keywords": ["cherry"],
 		"tags": ["produce"],
@@ -1304,5 +1310,11 @@
 		"tags": ["produce"],
 		"value": "3440",
 		"uiColor": "red"
+	},
+	{
+		"name": "Chestnuts",
+		"tags": ["produce"],
+		"value": "4927",
+		"uiColor": "brown"
 	}
 ]
