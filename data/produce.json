@@ -1194,6 +1194,7 @@
 	},
 	{
 		"name": "Pumpkins, Mini",
+		"keywords": ["mini pumpkin"],
 		"tags": ["produce"],
 		"value": "4734",
 		"uiColor": "orange"
