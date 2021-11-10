@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Grocery",
+		"tags": ["dept", "department"],
+		"value": "1"
+	},
+	{
+		"name": "Taxable Grocery",
+		"tags": ["dept", "department"],
+		"value": "99"
+	},
+	{
+		"name": "Inedible Grocery",
+		"tags": ["dept", "department"],
+		"value": "27"
+	},
+	{
+		"name": "General Merch",
+		"tags": ["dept", "department"],
+		"value": "11"
+	},
+	{
+		"name": "Non-Food",
+		"tags": ["dept", "department"],
+		"value": "62"
+	},
+	{
+		"name": "Seasonal General Merch",
+		"tags": ["dept", "department"],
+		"value": "63"
+	},
+	{
+		"name": "Produce",
+		"tags": ["dept", "department"],
+		"value": "4"
+	},
+	{
+		"name": "Meat",
+		"tags": ["dept", "department"],
+		"value": "5"
+	},
+	{
+		"name": "Meat Specialty",
+		"tags": ["dept", "department"],
+		"value": "105"
+	},
+	{
+		"name": "Floral",
+		"tags": ["dept", "department"],
+		"value": "6"
+	},
+	{
+		"name": "Bakery",
+		"tags": ["dept", "department"],
+		"value": "7"
+	},
+	{
+		"name": "Beer",
+		"tags": ["dept", "department"],
+		"value": "32"
+	}
+]
