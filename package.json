@@ -8,8 +8,8 @@
 		"postinstall": "foy build"
 	},
 	"devDependencies": {
-		"@types/node": "^16.7.10",
-		"foy": "^0.2.12",
+		"@types/node": "^16.11.10",
+		"foy": "^0.2.14",
 		"jsonschema": "^1.4.0",
 		"turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
 	}
