@@ -58,5 +58,10 @@
 		"name": "Beer",
 		"tags": ["dept", "department"],
 		"value": "32"
+	},
+	{
+		"name": "Wine",
+		"tags": ["dept", "department"],
+		"value": "33"
 	}
 ]
