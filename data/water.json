@@ -21,6 +21,18 @@
 		"uiColor": "blue"
 	},
 	{
+		"name": "Giant Eagle Spring Water, 3 Gallon",
+		"keywords": ["spring 3"],
+		"value": "03003402253",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Giant Eagle Distilled Water, 3 Gallon",
+		"keywords": ["distilled 3"],
+		"value": "03003402254",
+		"uiColor": "blue"
+	},
+	{
 		"name": "Deer Park 100% Natural Spring Water - 24 Pack Bottles",
 		"priority-keywords": ["deer park"],
 		"keywords": ["water bottles pack"],
