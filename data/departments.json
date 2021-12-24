@@ -15,6 +15,11 @@
 		"value": "27"
 	},
 	{
+		"name": "Frozen Food",
+		"tags": ["dept", "department"],
+		"value": "36"
+	},
+	{
 		"name": "General Merch",
 		"tags": ["dept", "department"],
 		"value": "11"
@@ -28,6 +33,11 @@
 		"name": "Seasonal General Merch",
 		"tags": ["dept", "department"],
 		"value": "63"
+	},
+	{
+		"name": "Deli",
+		"tags": ["dept", "department"],
+		"value": "3"
 	},
 	{
 		"name": "Produce",
@@ -45,9 +55,24 @@
 		"value": "105"
 	},
 	{
+		"name": "Sushi",
+		"tags": ["dept", "department"],
+		"value": "42"
+	},
+	{
 		"name": "Floral",
 		"tags": ["dept", "department"],
 		"value": "6"
+	},
+	{
+		"name": "Flowers",
+		"tags": ["dept", "department"],
+		"value": "60"
+	},
+	{
+		"name": "Plants",
+		"tags": ["dept", "department"],
+		"value": "61"
 	},
 	{
 		"name": "Bakery",
@@ -63,5 +88,10 @@
 		"name": "Wine",
 		"tags": ["dept", "department"],
 		"value": "33"
+	},
+	{
+		"name": "N/A Beer & Wine",
+		"tags": ["dept", "department"],
+		"value": "54"
 	}
 ]
