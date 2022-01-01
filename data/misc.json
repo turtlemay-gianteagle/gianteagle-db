@@ -45,5 +45,12 @@
 		"name": "Beer 6",
 		"keywords": ["6-pack beer"],
 		"value": "030034915261"
+	},
+	{
+		"name": "Zum Bar Soap",
+		"priority-keywords": ["soap"],
+		"keywords": ["bulk soap"],
+		"value": "663204310001",
+		"uiColor": "purple"
 	}
 ]
