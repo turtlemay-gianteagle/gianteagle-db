@@ -49,10 +49,15 @@
 	},
 	{
 		"name": "Peppers, Red Bell",
+		"tags": ["produce"],
+		"value": "4688"
+	},
+	{
+		"name": "Peppers, Red Bell",
 		"keywords": ["bell peppers"],
 		"priority-keywords": ["red bell peppers"],
 		"tags": ["produce", "bell"],
-		"value": "4688"
+		"value": "4088"
 	},
 	{
 		"name": "Peppers, Orange Bell",
