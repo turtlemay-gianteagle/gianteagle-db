@@ -35,5 +35,15 @@
 		"priority-keywords": ["charcoal"],
 		"value": "044600320687",
 		"uiColor": "black"
+	},
+	{
+		"name": "Beer 1",
+		"keywords": ["beer"],
+		"value": "15372"
+	},
+	{
+		"name": "Beer 6",
+		"keywords": ["6-pack beer"],
+		"value": "030034915261"
 	}
 ]
