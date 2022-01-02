@@ -3,60 +3,60 @@
 		"name": "LaCroix Sparkling Water, Natural Lime",
 		"keywords": ["lacroix lime"],
 		"value": "073360233418",
-		"uiColor": "green"
+		"uiColor": "#A4D061"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Grapefruit Pamplemousse",
 		"keywords": ["lacroix pamplemousse"],
 		"value": "012993102012",
-		"uiColor": "orange"
+		"uiColor": "#F39589"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Natural Lemon",
 		"keywords": ["lacroix lemon"],
 		"value": "073360373411",
-		"uiColor": "yellow"
+		"uiColor": "#F8D000"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Cranberry Raspberry",
 		"keywords": ["lacroix raspberry"],
 		"value": "073360323416",
-		"uiColor": "red"
+		"uiColor": "#F1627C"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Berry",
 		"keywords": ["lacroix berry"],
 		"value": "073360743412",
-		"uiColor": "purple"
+		"uiColor": "#E3A1C7"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Orange",
 		"keywords": ["lacroix orange"],
 		"value": "073360613418",
-		"uiColor": "orange"
+		"uiColor": "#F58320"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Tangerine",
 		"keywords": ["lacroix tangerine"],
 		"value": "012993112066",
-		"uiColor": "orange"
+		"uiColor": "#FEC458"
 	},
 	{
 		"name": "LaCroix Sparkling Water",
 		"keywords": ["lacroix"],
 		"value": "073360703416",
-		"uiColor": "blue"
+		"uiColor": "#6EC6EC"
 	},
 	{
 		"name": "LaCroix Sparkling Water, Mango",
 		"keywords": ["lacroix mango"],
 		"value": "012993112035",
-		"uiColor": "green"
+		"uiColor": "#ACB031"
 	},
 	{
 		"name": "LaCroix Coconut Flavored Sparkling Water",
 		"keywords": ["lacroix coconut"],
 		"value": "012993102029",
-		"uiColor": "white"
+		"uiColor": "#D4B98E"
 	}
 ]
