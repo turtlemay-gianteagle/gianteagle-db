@@ -330,7 +330,8 @@
 		"name": "Pummelo",
 		"priority-keywords": ["pummelo"],
 		"tags": ["produce"],
-		"value": "3129"
+		"value": "3129",
+		"uiColor": "green"
 	},
 	{
 		"name": "Orange, Cara Cara (Pink)",
