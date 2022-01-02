@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Polar Seltzer, Natural, 12 Pack",
+		"keywords": ["polar 12 pack", "polar natural"],
+		"value": "071537201208",
+		"uiColor": "#70b2dd"
+	},
+	{
+		"name": "Polar Seltzer, Lemon, 12 Pack",
+		"keywords": ["polar 12 pack", "polar lemon"],
+		"value": "071537201345",
+		"uiColor": "#F8C202"
+	},
+	{
+		"name": "Polar Seltzer, Orange Vanilla, 12 Pack",
+		"keywords": ["polar 12 pack", "polar orange"],
+		"value": "071537201611",
+		"uiColor": "#FC9515"
+	},
+	{
+		"name": "Polar Seltzer, Raspberry Lime, 12 Pack",
+		"keywords": ["polar 12 pack", "polar raspberry lime"],
+		"value": "071537201307",
+		"uiColor": "#AB1A43"
+	},
+	{
+		"name": "Polar Seltzer, Cranberry Lime, 12 Pack",
+		"keywords": ["polar 12 pack", "polar cranberry lime"],
+		"value": "071537201420",
+		"uiColor": "#F11808"
+	},
+	{
+		"name": "Polar Seltzer, Pomegranate, 12 Pack",
+		"keywords": ["polar 12 pack", "polar pomegranate"],
+		"value": "071537201338",
+		"uiColor": "#E7455B"
+	},
+	{
+		"name": "Polar Seltzer, Ruby Red Grapefruit, 12 Pack",
+		"keywords": ["polar 12 pack", "polar grapefruit"],
+		"value": "071537201253",
+		"uiColor": "#FEB6C3"
+	}
+]
