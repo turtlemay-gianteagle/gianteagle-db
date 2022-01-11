@@ -314,6 +314,13 @@
 		"value": "3107"
 	},
 	{
+		"name": "Oranges, Navel, Large",
+		"priority-keywords": ["navel", "oranges"],
+		"keywords": ["navel oranges"],
+		"tags": ["produce"],
+		"value": "4012"
+	},
+	{
 		"name": "Oranges, Blood",
 		"priority-keywords": ["blood"],
 		"keywords": ["blood oranges"],
