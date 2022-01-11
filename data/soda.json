@@ -239,7 +239,7 @@
 	},
 	{
 		"name": "A&W Root Beer, Zero Sugar, 12pk",
-		"priority-keywords": ["a&w root beer zero", "aw root beer zero"],
+		"priority-keywords": ["a&w root beer zero", "aw root beer zero", "aw zero"],
 		"keywords": ["soda", "pop", "12pk", "12 pack", "cans", "zero sugar"],
 		"value": "078000053166",
 		"uiColor": "brown"
