@@ -52,5 +52,12 @@
 		"keywords": ["bulk soap"],
 		"value": "663204310001",
 		"uiColor": "purple"
+	},
+	{
+		"name": "Morton Safe-T-Salt, 25lb bag",
+		"priority-keywords": ["salt"],
+		"keywords": ["morton salt", "rock salt", "road salt", "sidewalk salt", "ice melt", "snow melt"],
+		"value": "024600046589",
+		"uiColor": "yellow"
 	}
 ]
