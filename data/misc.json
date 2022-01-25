@@ -59,5 +59,11 @@
 		"keywords": ["morton salt", "rock salt", "road salt", "sidewalk salt", "ice melt", "snow melt"],
 		"value": "024600046589",
 		"uiColor": "yellow"
+	},
+	{
+		"name": "GE Windshield Washer Fluid",
+		"keywords": ["antifreeze", "windshield wiper"],
+		"value": "030034058012",
+		"uiColor": "blue"
 	}
 ]
