@@ -1335,5 +1335,12 @@
 		"tags": ["produce"],
 		"value": "4927",
 		"uiColor": "brown"
+	},
+	{
+		"name": "Daikon",
+		"keywords": ["daikon radish", "white radish", "chinese radish", "japanese radish"],
+		"tags": ["produce"],
+		"value": "4598",
+		"uiColor": "white"
 	}
 ]
