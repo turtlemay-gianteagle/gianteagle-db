@@ -328,6 +328,13 @@
 		"value": "4381"
 	},
 	{
+		"name": "Oranges, Sumo",
+		"priority-keywords": ["sumo"],
+		"keywords": ["sumo citrus"],
+		"tags": ["produce"],
+		"value": "3632"
+	},
+	{
 		"name": "Grapefruit, Pink (Star Ruby)",
 		"priority-keywords": ["grapefruit"],
 		"tags": ["produce"],
