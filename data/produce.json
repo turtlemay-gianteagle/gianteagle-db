@@ -264,6 +264,7 @@
 	},
 	{
 		"name": "Potatoes, Red (Small)",
+		"priority-keywords": ["red potatoes"],
 		"keywords": ["red potatoes"],
 		"tags": ["produce"],
 		"value": "4723"
