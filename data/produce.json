@@ -1159,6 +1159,12 @@
 		"uiColor": "red"
 	},
 	{
+		"name": "Dragon fruit (yellow)",
+		"tags": ["produce"],
+		"value": "3319",
+		"uiColor": "yellow"
+	},
+	{
 		"name": "Artichokes, Large",
 		"tags": ["produce"],
 		"value": "4084",
