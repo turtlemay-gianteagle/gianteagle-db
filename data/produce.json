@@ -1004,12 +1004,14 @@
 	},
 	{
 		"name": "Endive, Belgian / Chicory",
+		"keywords": ["belgian chicory"],
 		"tags": ["produce"],
 		"value": "4604",
 		"uiColor": "green"
 	},
 	{
 		"name": "Endive, French / Chicory",
+		"keywords": ["french chicory"],
 		"tags": ["produce"],
 		"value": "4543",
 		"uiColor": "yellow"
