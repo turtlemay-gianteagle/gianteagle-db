@@ -1009,6 +1009,12 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Endive, French / Chicory",
+		"tags": ["produce"],
+		"value": "4543",
+		"uiColor": "yellow"
+	},
+	{
 		"name": "Celery",
 		"keywords": ["celery"],
 		"tags": ["produce"],
