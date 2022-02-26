@@ -35,6 +35,13 @@
 		"uiColor": "yellow"
 	},
 	{
+		"name": "Bananas, 3lb (Discounted)",
+		"keywords": ["bananas"],
+		"tags": ["produce"],
+		"value": "234011400997",
+		"uiColor": "brown"
+	},
+	{
 		"name": "Plantains",
 		"tags": ["produce"],
 		"value": "4235",
