@@ -21,9 +21,21 @@
 		"uiColor": "blue"
 	},
 	{
+		"name": "Giant Eagle Spring Water, 1 Gallon",
+		"keywords": ["spring 1"],
+		"value": "030034022006",
+		"uiColor": "blue"
+	},
+	{
 		"name": "Giant Eagle Spring Water, 3 Gallon",
 		"keywords": ["spring 3"],
 		"value": "03003402253",
+		"uiColor": "blue"
+	},
+	{
+		"name": "Giant Eagle Distilled Water, 1 Gallon",
+		"keywords": ["distilled 1"],
+		"value": "030034022013",
 		"uiColor": "blue"
 	},
 	{
