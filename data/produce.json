@@ -299,7 +299,8 @@
 		"name": "Sweet Potatoes",
 		"keywords": ["sweet potato", "yams"],
 		"tags": ["produce"],
-		"value": "4817"
+		"value": "4817",
+		"uiColor": "orange"
 	},
 	{
 		"name": "Sweet Potatoes, Red (Organic)",
