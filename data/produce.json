@@ -963,6 +963,18 @@
 		"value": "4614"
 	},
 	{
+		"name": "Greens, Mustard",
+		"keywords": ["mustard greens"],
+		"tags": ["produce"],
+		"value": "4616"
+	},
+	{
+		"name": "Greens, Turnip",
+		"keywords": ["turnip greens"],
+		"tags": ["produce"],
+		"value": "4619"
+	},
+	{
 		"name": "Kale Bunch",
 		"priority-keywords": ["kale"],
 		"tags": ["produce"],
