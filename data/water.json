@@ -59,6 +59,13 @@
 		"uiColor": "blue"
 	},
 	{
+		"name": "Dasani Water 24",
+		"priority-keywords": ["dasani"],
+		"keywords": ["water bottles pack"],
+		"value": "049000031652",
+		"uiColor": "blue"
+	},
+	{
 		"name": "Water refill own jug",
 		"priority-keywords": ["water refill"],
 		"value": "402",
